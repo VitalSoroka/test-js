@@ -1,0 +1,8 @@
+{
+    "name": "first",
+    "version": "1",
+    "main": "first.js", 
+    "scripts": {
+        "st": "node first.js"
+    }
+}
